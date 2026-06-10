@@ -23,3 +23,13 @@ git merge new
 
 # Push merged changes to GitLab/GitHub
 git push origin main
+
+
+---------------------------------------------------
+
+
+MS
+Welcome back, madki
+DevOps Engineer
+What to learn next
+Recommended for you
